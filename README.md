@@ -19,21 +19,32 @@ To get started with the Go by Example exercises, you will need to have the Go pr
 
 Once you have Go installed, you can clone the Go by Example repository using the following command:
 
+Bash
 git clone https://github.com/GoByExamples/goByExample
+Use code with caution.
+
 This will clone the Go by Example repository into a directory called goByExample on your system.
 
 Navigate to the goByExample directory and run the following command to build the exercises:
 
+Bash
 go build ./...
+Use code with caution.
+
 This will build all of the exercises in the Go by Example repository.
 
 To run an exercise, simply navigate to the directory for the exercise and run the following command:
 
+Bash
 ./exercise_name
+Use code with caution.
+
 For example, to run the exercise on hello world, you would navigate to the helloworld directory and run the following command:
 
+Bash
 ./helloworld
+Use code with caution.
+
 This will run the hello world exercise and print the following output to the console:
 
 Hello, World!
-I hope this helps!
