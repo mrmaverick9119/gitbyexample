@@ -1,5 +1,6 @@
-Go by Example Exercises
-This is a collection of hands-on exercises that cover a wide range of topics in the Go programming language. These exercises are designed to be a practical introduction to Go, and they can be used to learn the basics of the language as well as more advanced topics.
+<h1>Go by Example Exercises</h1>
+<br/>
+<p>This is a collection of hands-on exercises that cover a wide range of topics in the Go programming language. These exercises are designed to be a practical introduction to Go, and they can be used to learn the basics of the language as well as more advanced topics.</p>
 
 Some of the topics covered in the Go by Example exercises include:
 
